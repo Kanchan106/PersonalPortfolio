@@ -1,4 +1,4 @@
-# 🌐 Portfolio Website - Kalyani Krishnaraj Mahadik
+# 🌐 Portfolio Website - Kanchan Ravindra Sonawane
 
 👩‍💻 A modern, responsive portfolio website built with HTML, CSS, and JavaScript, connected to a Node.js + Express backend and MongoDB database.
 
